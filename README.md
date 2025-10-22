@@ -1,9 +1,9 @@
 <!-- HEADER -->
-<h1 align="center">🌟 Hi, I'm <span style="color:#00bcd4;">Rakshita Kabber</span></h1>
+<h1 align="center">🌟 Hi I'm <span style="color:#00bcd4;">Rakshita Kabber</span></h1>
 <h3 align="center">📊 Aspiring Data Analyst | Excel | Power BI | Tableau | SQL | Python</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="500px" alt="Data Animation"/>
+  <img src="https://tse4.mm.bing.net/th/id/OIP.5XO30lW1lywFq8HUc5WSkwHaEJ?pid=Api&P=0&h=180"
 </p>
 
 ---
@@ -37,8 +37,7 @@ An interactive **Power BI dashboard** analyzing ad performance across social med
 It visualizes impressions, CTR, engagement rate, budget, and campaign results.
 
 <p align="center">
-  [meta ad](https://github.com/user-attachments/assets/ba78d7fb-85d5-4c92-838c-1f1c1c020192)
-  <img src="https://raw.githubusercontent.com/rakshitakabber/rakshitakabber/main/" 
+  <img src="https://github.com/rakshitakabber09-boop/rakshitakabber/blob/main/meta%20ad.jpg?raw=true" 
        alt="Meta Ad Performance Dashboard" 
        width="85%" 
        style="border-radius: 15px; box-shadow: 0px 0px 15px rgba(0, 188, 212, 0.5);" />
@@ -51,24 +50,10 @@ It visualizes impressions, CTR, engagement rate, budget, and campaign results.
 
 ## 🏆 Certifications & Learning
 
-- 🎓 **Data Analytics with Python** – NPTEL / Coursera  
+- 🎓 **Data Analytics with Python** – Besant Technologies Marathahalli, Bangalore  
 - 📊 **Power BI Data Analyst Associate (in progress)**  
 - 📘 **Advanced Excel for Business**  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakshitakabber&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitakabber&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitakabber&layout=compact&theme=radical&hide_border=true" width="45%" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -76,7 +61,7 @@ It visualizes impressions, CTR, engagement rate, budget, and campaign results.
   <a href="https://www.linkedin.com/in/rakshitakabber/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rakshitakabber@gmail.com">
+  <a href="mailto:rakshitakabber09@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/rakshitakabber">
