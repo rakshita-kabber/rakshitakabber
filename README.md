@@ -30,44 +30,24 @@
 
 ---
 
-## 🖼️ My Dashboards
-
-### 📊 Meta Ad Performance Dashboard
-An interactive **Power BI dashboard** analyzing ad performance across social media platforms.  
-It visualizes impressions, CTR, engagement rate, budget, and campaign results.
-
-<p align="center">
-  <img src="https://github.com/rakshitakabber09-boop/rakshitakabber/blob/main/meta%20ad.jpg?raw=true" 
-       alt="Meta Ad Performance Dashboard" 
-       width="85%" 
-       style="border-radius: 15px; box-shadow: 0px 0px 15px rgba(0, 188, 212, 0.5);" />
-</p>
-
-> 🧩 *Built using Power BI | Focused on marketing KPIs and engagement trends*!  
-
-
----
-
-## 🏆 Certifications & Learning
-
-- 🎓 **Data Analytics with Python** – Besant Technologies Marathahalli, Bangalore  
-- 📊 **Power BI Data Analyst Associate (in progress)**  
-- 📘 **Advanced Excel for Business**  
-
-
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rakshitakabber/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <!-- Follow -->
+  <a href="https://www.linkedin.com/in/rakshitakabber" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" />
   </a>
-  <a href="mailto:rakshitakabber09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.instagram.com/rakshita_kabber" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20" alt="Instagram" />
   </a>
-  <a href="https://github.com/rakshitakabber">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+
+
+## 🏆 Certifications & Learning
+
+- 🎓 **Data Science** – Besant Technologies Marathahalli, Bangalore  
+- 📊 **AI&ML Internship** -Zeta coding innovative solutions, Bangalore  
+- 📘 **Advanced Excel for Business**  
 
 ---
 
@@ -82,3 +62,9 @@ It visualizes impressions, CTR, engagement rate, budget, and campaign results.
 ---
 
 <h4 align="center">⭐ Explore my repositories to see how I turn data into insights!</h4>
+
+
+  
+
+
+
