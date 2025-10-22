@@ -55,10 +55,6 @@
 
 > “Data is the new oil, and I love refining it into insights that power decisions.”
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="300px" alt="Data GIF"/>
-</p>
-
 ---
 
 <h4 align="center">⭐ Explore my repositories to see how I turn data into insights!</h4>
